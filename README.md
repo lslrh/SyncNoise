@@ -24,12 +24,12 @@ We propose SyncNoise, a novel geometry-guided multi-view consistent noise editin
 ## Citation
 If our work is useful for your research, please consider citing:
 
-    @inproceedings{li2024syncnoise,
-        author = {Ruihuang, Li and Liyi, Chen and Zhengqiang, Zhang and Varun, Jampani and Vishal M., Patel and Lei, Zhang},
-        title = {SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing},
-        booktitle = {},
-        year = {2023}
-    }
+@article{li2024syncnoise,
+  title={SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing},
+  author={Li, Ruihuang and Chen, Liyi and Zhang, Zhengqiang and Jampani, Varun and Patel, Vishal M and Zhang, Lei},
+  journal={arXiv preprint arXiv:2406.17396},
+  year={2024}
+}
 
 ## Acknowledgement
 This project is based on [NerfStudio](https://github.com/nerfstudio-project/nerfstudio), [Instruct-Nerf2Nerf](https://github.com/ayaanzhaque/instruct-nerf2nerf), and [Efficient-Nerf2Nerf](https://github.com/gong-xuan/nerfstudio-en2n). Thanks for their awesome work.
